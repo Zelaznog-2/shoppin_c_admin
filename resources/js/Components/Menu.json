@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Clientes",
+    "route": "clients.index",
+    "option": "",
+    "icon": "users"
+  },
+
+  {
+    "name": "Usuarios",
+    "route": "users.index",
+    "option": "",
+    "icon": "users-cog"
+  },
+
+  {
+    "name": "Categorías",
+    "route": "categories.index",
+    "option": "",
+    "icon": "list"
+  },
+
+  {
+    "name": "Productos",
+    "route": "products.index",
+    "option": "",
+    "icon": "stream"
+  },
+
+  {
+    "name": "Ventas",
+    "route": "sales.index",
+    "option": "",
+    "icon": "shopping-cart"
+  },
+
+  {
+    "name": "Proveedores",
+    "route": "suppliers.index",
+    "option": "",
+    "icon": "user-tie"
+  },
+
+  {
+    "name": "Ingresos",
+    "route": "incomes.index",
+    "option": "",
+    "icon": "file-invoice"
+  }
+]
